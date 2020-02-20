@@ -1,4 +1,5 @@
 # RPi Heart Rate Monitor Application
+<img width="552" alt="hr-emb" src="https://user-images.githubusercontent.com/14100297/74979790-51a7bc80-53fd-11ea-9a26-4820d6573b7d.png">
 
 ### Objectives
 - Learn how to interface and read data from a heart rate wearable sensor.
